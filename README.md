@@ -15,3 +15,5 @@ Dependencies:
 - Pandas  
 - MatPlotLib  
 - Mlxtend  
+
+The code can be accessed through FinalReport.pdf, or at https://github.com/rghvv/DCNN-Pneumonia-Diagnosis/.
