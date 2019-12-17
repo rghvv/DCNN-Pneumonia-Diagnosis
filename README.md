@@ -1,6 +1,7 @@
 # DCNN-Pneumonia-Diagnosis
 
-Detecting pneumonia from chest x-rays using a deep convolutional neural network.
+Detecting pneumonia from chest x-rays using a deep convolutional neural network.  
+Achieved <b>90.705%</b> accuracy.
 
 
 Files:
